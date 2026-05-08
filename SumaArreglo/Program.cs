@@ -46,5 +46,5 @@ Console.ResetColor();
 for (int i=0; i < sumavector.Length; i++)
 {
     sumavector[i] = vector1[i] + vector2[i];
-    Console.WriteLine($"Elementos {i + 1} es {sumavector[i]}");
+    Console.WriteLine($"Elementos {i + 1} es:  {sumavector[i]}");
 }
