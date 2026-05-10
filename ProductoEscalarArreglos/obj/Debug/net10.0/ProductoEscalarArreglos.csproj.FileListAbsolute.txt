@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\Grupo6ProgCS\ProductoEscalarArreglos\obj\Debug\net10.0\ProductoEscalarArreglos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Grupo6ProgCS\ProductoEscalarArreglos\obj\Debug\net10.0\ProductoEscalarArreglos.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Grupo6ProgCS\ProductoEscalarArreglos\obj\Debug\net10.0\ProductoEscalarArreglos.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Grupo6ProgCS\ProductoEscalarArreglos\obj\Debug\net10.0\ProductoEscalarArreglos.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Grupo6ProgCS\ProductoEscalarArreglos\obj\Debug\net10.0\ProductoEscalarArreglos.sourcelink.json
+C:\Users\Administrator\Desktop\Grupo6ProgCS\ProductoEscalarArreglos\bin\Debug\net10.0\ProductoEscalarArreglos.exe
+C:\Users\Administrator\Desktop\Grupo6ProgCS\ProductoEscalarArreglos\bin\Debug\net10.0\ProductoEscalarArreglos.deps.json
+C:\Users\Administrator\Desktop\Grupo6ProgCS\ProductoEscalarArreglos\bin\Debug\net10.0\ProductoEscalarArreglos.runtimeconfig.json
+C:\Users\Administrator\Desktop\Grupo6ProgCS\ProductoEscalarArreglos\bin\Debug\net10.0\ProductoEscalarArreglos.dll
+C:\Users\Administrator\Desktop\Grupo6ProgCS\ProductoEscalarArreglos\bin\Debug\net10.0\ProductoEscalarArreglos.pdb
+C:\Users\Administrator\Desktop\Grupo6ProgCS\ProductoEscalarArreglos\obj\Debug\net10.0\ProductoEscalarArreglos.dll
+C:\Users\Administrator\Desktop\Grupo6ProgCS\ProductoEscalarArreglos\obj\Debug\net10.0\refint\ProductoEscalarArreglos.dll
+C:\Users\Administrator\Desktop\Grupo6ProgCS\ProductoEscalarArreglos\obj\Debug\net10.0\ProductoEscalarArreglos.pdb
+C:\Users\Administrator\Desktop\Grupo6ProgCS\ProductoEscalarArreglos\obj\Debug\net10.0\ProductoEscalarArreglos.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Grupo6ProgCS\ProductoEscalarArreglos\obj\Debug\net10.0\ref\ProductoEscalarArreglos.dll
