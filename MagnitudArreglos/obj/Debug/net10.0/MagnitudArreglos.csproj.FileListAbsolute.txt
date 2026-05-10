@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\Grupo6ProgCS\MagnitudArreglos\obj\Debug\net10.0\MagnitudArreglos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Grupo6ProgCS\MagnitudArreglos\obj\Debug\net10.0\MagnitudArreglos.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Grupo6ProgCS\MagnitudArreglos\obj\Debug\net10.0\MagnitudArreglos.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Grupo6ProgCS\MagnitudArreglos\obj\Debug\net10.0\MagnitudArreglos.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Grupo6ProgCS\MagnitudArreglos\obj\Debug\net10.0\MagnitudArreglos.sourcelink.json
+C:\Users\Administrator\Desktop\Grupo6ProgCS\MagnitudArreglos\bin\Debug\net10.0\MagnitudArreglos.exe
+C:\Users\Administrator\Desktop\Grupo6ProgCS\MagnitudArreglos\bin\Debug\net10.0\MagnitudArreglos.deps.json
+C:\Users\Administrator\Desktop\Grupo6ProgCS\MagnitudArreglos\bin\Debug\net10.0\MagnitudArreglos.runtimeconfig.json
+C:\Users\Administrator\Desktop\Grupo6ProgCS\MagnitudArreglos\bin\Debug\net10.0\MagnitudArreglos.dll
+C:\Users\Administrator\Desktop\Grupo6ProgCS\MagnitudArreglos\bin\Debug\net10.0\MagnitudArreglos.pdb
+C:\Users\Administrator\Desktop\Grupo6ProgCS\MagnitudArreglos\obj\Debug\net10.0\MagnitudArreglos.dll
+C:\Users\Administrator\Desktop\Grupo6ProgCS\MagnitudArreglos\obj\Debug\net10.0\refint\MagnitudArreglos.dll
+C:\Users\Administrator\Desktop\Grupo6ProgCS\MagnitudArreglos\obj\Debug\net10.0\MagnitudArreglos.pdb
+C:\Users\Administrator\Desktop\Grupo6ProgCS\MagnitudArreglos\obj\Debug\net10.0\MagnitudArreglos.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Grupo6ProgCS\MagnitudArreglos\obj\Debug\net10.0\ref\MagnitudArreglos.dll
